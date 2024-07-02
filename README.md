@@ -29,3 +29,7 @@
 - Certification course in Joy of Computing using Python (NPTEL)
 - Bootcamp on Python and Data Analytics (ShapeAI, GDC Ranchi)
 
+#### Competitive Website Profiles:
+- [Linkedin](https://www.linkedin.com/in/shirin-a-s-884323214)
+  
+check out [@shirinas@mulearn.md](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/blob/main/profiles/shirinas%40mulearn.md)
